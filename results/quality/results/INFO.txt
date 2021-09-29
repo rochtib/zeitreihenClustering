@@ -1,0 +1,3 @@
+####################################
+Gesamt Laufzeit Experiment Quality: 5.764842 Stunden 
+Durchgeführt: 2021-09-20, 05:42:07

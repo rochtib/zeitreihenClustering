@@ -1,0 +1,6 @@
+Die Kurven Real_1.txt,Real_2.txt,Real_3.txt,Real_4.txt wurden aus der PSMSL Library genommen.
+Zeitreihe ab 1990.
+Real_1.txt -> Cuxhaven
+Real_2.txt -> Travemünde
+Real_3.txt -> Liverpool
+Real_4.txt -> Sydney

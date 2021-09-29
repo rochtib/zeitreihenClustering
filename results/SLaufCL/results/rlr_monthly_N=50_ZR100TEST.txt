@@ -1,0 +1,8 @@
+Anzahl Punkte: 50 Clustering: 5
+1. Zeile RealWorldDaten Daten
+2. permutierte Daten: Mittelwerte ueber 10 Wiederholungen gebildet.
+####################################
+####################################
+  n        SL      SLFDN [SLFDN/CL]       SLDN  [SLDN/CL]         CL      CLFDN [CLFDN/CL]       CLDN  [CLDN/CL]
+ 50,       950,       950,   1.48862,      1172,   1.83648,   638.176,       705,   1.10471,       955,   1.49645
+ 50,       950,    1065.7,   1.66991,    1205.5,   1.88898,   638.176,     958.9,   1.50256,   1222.95,   1.91632

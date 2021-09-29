@@ -1,0 +1,8 @@
+Anzahl Punkte: 30 Clustering: 3
+1. Original Daten
+2. permuierte Daten Mittelwerte über 1 Wiederholungen gebildet.
+####################################
+####################################
+        SL      SLFDN [SLFDN/SL]       SLDN  [SLDN/SL]         CL      CLFDN [CLFDN/CL]       CLDN  [CLDN/CL]
+   4445.78,   4445.78,         1,   4445.78,         1,   651.012,       982,   1.50842,      1099,   1.68814
+   4445.78,   4445.78,         1,   4445.78,         1,   651.012,       982,   1.50842,      1094,   1.68046

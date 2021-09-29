@@ -1,0 +1,8 @@
+Anzahl Punkte: 500 Clustering: 20
+1. Zeile Original Daten
+2. permutierte Daten: Mittelwerte über 10 Wiederholungen gebildet.
+####################################
+####################################
+  n        SL      SLFDN [SLFDN/CL]       SLDN  [SLDN/CL]         CL      CLFDN [CLFDN/CL]       CLDN  [CLDN/CL]
+500,      1335,      1335,   2.25888,      1435,   2.42808,   591.001,       880,     1.489,   1591.04,   2.69211
+500,      1335,      1355,   2.29272,   1332.14,   2.25404,   591.001,   1101.24,   1.86335,    1718.6,   2.90795

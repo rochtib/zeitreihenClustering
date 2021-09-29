@@ -1,0 +1,3 @@
+####################################
+Gesamt Laufzeit Experiment approximation: 12.628226 Stunden 
+Durchgeführt: 2021-09-24, 12:38:47

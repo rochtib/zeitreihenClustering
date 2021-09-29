@@ -1,0 +1,3 @@
+####################################
+Gesamt Laufzeit Experiment Korrektheit: 7.495891 Minuten 
+Durchgefuehrt: 2021-09-29, 08:15:47

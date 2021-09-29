@@ -1,0 +1,8 @@
+Anzahl Punkte: 10 Clustering: 1
+########################################################################
+########################################################################
+1. Zeile RealWorld Daten
+2. permutierte RealWorld Daten: Mittelwerte über 1 Wiederholungen gebildet.
+  n        SL      SLFDN [SLFDN/SL]       SLDN  [SLDN/SL]   [DN/FDN]         CL      CLFDN [CLFDN/CL]       CLDN  [CLDN/CL]  [DN/FDN] 
+ 10,   2030.19,   2030.19,         1,   2030.19,         1,         1,       848,       848,         1,       848,         1,         1
+ 10,   2030.19,   2030.19,         1,   2030.19,         1,         1,       848,       848,         1,       848,         1,         1
